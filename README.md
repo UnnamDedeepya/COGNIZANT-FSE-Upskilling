@@ -1,6 +1,6 @@
 # 💼 Digital Nurture 4.0 - Upskilling Phase
 
-This repository contains my self-learning practice solutions from the **Upskilling Phase** of the **Digital Nurture 4.0 – Java Full Stack Engineering (2026)** program powered by Cognizant.
+This repository contains my self-learning practice solutions from the **Upskilling Phase** of the **Digital Nurture 4.0 (2026)** program powered by Cognizant.
 
 The Upskilling phase focused on building strong foundational full-stack skills through structured, hands-on modules and exercises. All solutions are based on the official program handbook guidelines.
 
