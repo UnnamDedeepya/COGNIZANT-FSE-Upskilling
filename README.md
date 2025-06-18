@@ -17,7 +17,6 @@ The Upskilling phase focused on building strong foundational full-stack skills t
 ## 🗂️ Repository Structure
 
 COGNIZANT-FSE-Upskilling
-│
 
 ├── CORE JAVA/
 
